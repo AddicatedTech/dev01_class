@@ -1,2 +1,2 @@
-lemon auto test platform.
+auto test platform.
 
