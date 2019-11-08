@@ -1,0 +1,20 @@
+上下文 AppContxt, RequestContext
+
+current_app, request, g, session
+
+current_app = LocalProxy()
+
+res = rquests.get('url')
+
+# 为什么回没有文档。？
+# python sphinx
+
+
+my_config = {}
+my_config['debug']
+
+
+# 蓝图分为几步：
+1、定义 web = Blueprint('web',__name__)
+2、挂载视图
+3、注册到 app,
